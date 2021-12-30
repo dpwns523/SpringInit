@@ -8,7 +8,7 @@ Spring MVC 기본 설정입니다.
 
 ## 추가해서 사용
 
-## Mybatis Setting 
+### Mybatis Setting 
 /src/main/resources/config/config.properties
 
-## Swagger URL
+### Swagger URL
